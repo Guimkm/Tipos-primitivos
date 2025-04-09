@@ -2,17 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com.mycompany.tiposprimitivos1;
+package com.mycompany.tiposprimitivos;
 
 /**
  *
- * @author FATEC ZONA LESTE
+ * @author Guilherme Araujo
  */
 public class TiposPrimitivos {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
          //
        byte idade = 24; //idade em anos da padaria     
